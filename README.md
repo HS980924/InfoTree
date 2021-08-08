@@ -1,17 +1,18 @@
 <h1 align="center">Info Tree</h1>
 
 # 📒 Introduction
-> 본 컨텐츠는 개발자로써 필요한 정보들은 모아놓는 공간입니다 :)
-> 누구나 내용을 추가할 수 있으고 볼 수 있습니다. 자세한 사항은 가장 하단에 내용을 확인해주세요. 감사합니다 :)
+> 본 컨텐츠는 **`개발자로써 필요한 정보들은 모아놓는 공간`** 입니다 :)  
+> **누구나 내용을 추가할 수 있으고 볼 수 있습니다.**
+> 자세한 사항은 가장 하단에 내용을 확인해주세요. 감사합니다 :)
 ___  
-# 📔 Supporter & Contributor 
+# 📔 Main Contributor 
 <table>
   <tr>
     <a href="https://github.com/Jh9892" align="center">
-      <img src=https://img.shields.io/badge/Team.CMD-Jh9892-eecafc?style=flat-square&labelColor=000000 />
+      <img src=https://img.shields.io/badge/Jh9892-eecafc?style=flat-square/>
     </a>
     <a href="https://github.com/HS98094" align="center">
-      <img src=https://img.shields.io/badge/Team.CMD-HS98094-5C6BC0?style=flat-square&labelColor=000000 />
+      <img src=https://img.shields.io/badge/HS98094-5C6BC0?style=flat-square/>
     </a>
   </tr>
 </table>
