@@ -49,7 +49,7 @@ ___
 ### Ⅲ. 프로젝트용 활용자료
 - [고퀄리티⚡개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)
 - [한국어 사용자를 위한 서비스에 사용하기 위한 오픈 API 모음](https://github.com/dl0312/open-apis-korea)
-- [Github으로 한방에 프로젝트 관리하기](https://github.com/cheese10yun/github-project-management
+- [Github으로 한방에 프로젝트 관리하기](https://github.com/cheese10yun/github-project-management)
 - [Code를 이쁘게 저장해보자 (1), Carbon](https://carbon.now.sh/)
 ___ 
 ### Ⅳ. VCS
@@ -94,6 +94,7 @@ ___
 - [FlexBox 완전정복](https://studiomeal.com/archives/197)
 - [초보 웹 개발자를 위한 학습로드맵](https://subicura.com/2021/06/27/study-guide.html?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
 - [2021 WEB Development TechTree](https://www.youtube.com/watch?v=kjSZ7JKVdbQ)
+- [Nomad Coder Lecture Site](https://nomadcoders.co/)
 
 ##### ⅲ. 백엔드
 - [Backend-Interview-Question](https://github.com/ksundong/backend-interview-question)
