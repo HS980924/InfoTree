@@ -51,6 +51,7 @@ ___
 - [한국어 사용자를 위한 서비스에 사용하기 위한 오픈 API 모음](https://github.com/dl0312/open-apis-korea)
 - [Github으로 한방에 프로젝트 관리하기](https://github.com/cheese10yun/github-project-management)
 - [Code를 이쁘게 저장해보자 (1), Carbon](https://carbon.now.sh/)
+- [How to make Web Project](https://mishacreatrix.medium.com/design-a-website-from-scratch-in-7-steps-bf3e0ab1972)
 ___ 
 ### Ⅳ. VCS
 - [VCS를 이용한 기본, 프로젝트 관리하기](https://uang.tistory.com/9?category=799977)
