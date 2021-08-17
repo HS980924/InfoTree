@@ -53,6 +53,7 @@ ___
 - [Code를 이쁘게 저장해보자 (1), Carbon](https://carbon.now.sh/)
 ___ 
 ### Ⅳ. VCS
+- [VCS를 이용한 기본, 프로젝트 관리하기](https://uang.tistory.com/9?category=799977)
 - [개발자의 기초소양 #1 개인 깃헙 프로필 만들기!](https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/)
 - [개발자의 기초소양 #1-2 Shield.io](https://shields.io/)
 - [Git초보자를 위한 git 강의:팀 단위 프로젝트](https://youtu.be/FmsshPRJotE)
