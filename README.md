@@ -111,6 +111,7 @@ ___
 https://www.slideshare.net/NaverEngineering/techcon-2019-mobile-android3)
 - [Android Developers : Youtube Channels](https://www.youtube.com/user/androiddevelopers/videos)
 - [Android 개발자 공식 사이트](https://developer.android.com/)
+- [모바일 앱 디자인을 위한 9가지 원칙](https://www.uxpin.com/studio/blog/principles-mobile-app-design/)
 
 ##### ⅴ. 머신러닝
 - [Machine Learning study for Beginner](https://github.com/teddylee777/machine-learning)
