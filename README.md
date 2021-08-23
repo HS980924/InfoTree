@@ -54,6 +54,7 @@ ___
 - [How to make Web Project](https://mishacreatrix.medium.com/design-a-website-from-scratch-in-7-steps-bf3e0ab1972)
 ___ 
 ### Ⅳ. VCS
+- [Github 활용 끝판왕 모음!!](https://github.com/cheese10yun/dev-info)
 - [VCS를 이용한 기본, 프로젝트 관리하기](https://uang.tistory.com/9?category=799977)
 - [개발자의 기초소양 #1 개인 깃헙 프로필 만들기!](https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/)
 - [개발자의 기초소양 #1-2 Shield.io](https://shields.io/)
