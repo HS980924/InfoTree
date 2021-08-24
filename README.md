@@ -99,6 +99,7 @@ ___
 - [초보 웹 개발자를 위한 학습로드맵](https://subicura.com/2021/06/27/study-guide.html?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
 - [2021 WEB Development TechTree](https://www.youtube.com/watch?v=kjSZ7JKVdbQ)
 - [Nomad Coder Lecture Site](https://nomadcoders.co/)
+- [프론트엔드 개발에 영감을 주는 8가지 아이디어](https://yozm.wishket.com/magazine/detail/806/)
 
 ##### ⅲ. 백엔드
 - [Backend-Interview-Question](https://github.com/ksundong/backend-interview-question)
