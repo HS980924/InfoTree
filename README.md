@@ -30,6 +30,7 @@ ___
 - [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/?fbclid=IwAR3H6ENf-MgmDkhHPTUHw523o02sv6wi--_HVwsbcfYtoj4h8rAY4ScERqA)
 - [개발자를 위한 트렌드 2021](https://velog.io/@wooder2050/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%ED%8A%B8%EB%A0%8C%EB%93%9C2021?fbclid=IwAR0eqcHztAwVj3HKq8u0w5hhCJHFz6bZenPrEY_bIcoAblBNFThfeTmzVnU)
 - [신입 개발자를 위한 핵심 어드바이스](https://velog.io/@hyounglee/for-newbies?fbclid=IwAR3lRLCgw4Ns49uVO5l84MsN7ax3cW-ALGE97yy_E2cABIqhXn6TL9IpLEk)
+- [카카오 FE개발자 최종합격 후기](https://velog.io/@lky9303/%EC%B9%B4%EC%B9%B4%EC%98%A4-FE-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B5%9C%EC%A2%85-%ED%95%A9%EA%B2%A9feat-%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4-%EB%84%A4%EC%B9%B4%EB%9D%BC%EC%BF%A0%EB%B0%B0-%EA%B3%BC%EC%A0%95)
 ___ 
 ### Ⅱ. 코딩 테스트 관련 자료
 - [이것이 코딩테스트다! 소스코드](https://github.com/ndb796/python-for-coding-test)
@@ -114,13 +115,14 @@ https://www.slideshare.net/NaverEngineering/techcon-2019-mobile-android3)
 - [Android 개발자 공식 사이트](https://developer.android.com/)
 - [모바일 앱 디자인을 위한 9가지 원칙](https://www.uxpin.com/studio/blog/principles-mobile-app-design/)
 
-##### ⅴ. 머신러닝
+##### ⅴ. 머신러닝 & 데이터 분석
 - [Machine Learning study for Beginner](https://github.com/teddylee777/machine-learning)
 - [NDB's 딥러닝 논문 리뷰](https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice)
 - [Weekly NLP](https://jiho-ml.com/weekly-nlp-0/)
 - [Kaggle](https://www.kaggle.com/)
 - [AI Hub](https://aihub.or.kr/)
 - [Teachable Machine](https://teachablemachine.withgoogle.com/)
+- [데이터 분석 강의사이트 모음]
 
 ##### ⅵ. AWS
 - [AWS EC2 SSH 접속가이드](https://youtu.be/oMVfhT_xlzk)
