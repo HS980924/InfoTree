@@ -83,6 +83,7 @@ ___
 
 ##### ⅱ. 프론트엔드
 - [2021 Web Development Tech Tree](https://youtu.be/kjSZ7JKVdbQ)
+- [Vanila JS 기본 개념](https://junilhwang.github.io/TIL/Javascript/Domain/Execution-Context/#_1-%E1%84%80%E1%85%A2%E1%84%82%E1%85%A7%E1%86%B7)
 - [30 Days of React](https://github.com/Asabeneh/30-Days-Of-React)
 - [Top 10 Trending Project on github for Web developers](https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-22nd-january-2021-50hk?utm_source=dormosheio&utm_campaign=dormosheio&fbclid=IwAR2aiO35MnwrS0IVHvnSBL6OPqzT89K6P3VLhzAL0Q06JKLV1EotK_pxw0o)
 - [AnimXYZ animation toolkit](https://animxyz.com/?fbclid=IwAR1SqSkhvMcBpYI5WeGxgxtDG9CtQKN7D7Bn7J7K4IvxRkFEMr35S8nT2FE)
