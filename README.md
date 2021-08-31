@@ -80,6 +80,8 @@ ___
 - [코딩앙마 Youtube](https://www.youtube.com/channel/UCxft4RZ8lrK_BdPNz8NOP7Q)
 - [안경잡이 개발자 Youtube](https://www.youtube.com/channel/UChflhu32f5EUHlY7_SetNWw)
 - [대외활동/행사 : onoffmix](https://onoffmix.com/)
+- [CI/CD란 무엇인가?](https://youtu.be/0Emq5FypiMM)
+- [Docker란 무엇인가?](https://youtu.be/tPjpcsgxgWc)
 
 ##### ⅱ. 프론트엔드
 - [2021 Web Development Tech Tree](https://youtu.be/kjSZ7JKVdbQ)
