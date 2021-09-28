@@ -31,6 +31,7 @@ ___
 - [개발자를 위한 트렌드 2021](https://velog.io/@wooder2050/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%ED%8A%B8%EB%A0%8C%EB%93%9C2021?fbclid=IwAR0eqcHztAwVj3HKq8u0w5hhCJHFz6bZenPrEY_bIcoAblBNFThfeTmzVnU)
 - [신입 개발자를 위한 핵심 어드바이스](https://velog.io/@hyounglee/for-newbies?fbclid=IwAR3lRLCgw4Ns49uVO5l84MsN7ax3cW-ALGE97yy_E2cABIqhXn6TL9IpLEk)
 - [카카오 FE개발자 최종합격 후기](https://velog.io/@lky9303/%EC%B9%B4%EC%B9%B4%EC%98%A4-FE-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B5%9C%EC%A2%85-%ED%95%A9%EA%B2%A9feat-%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4-%EB%84%A4%EC%B9%B4%EB%9D%BC%EC%BF%A0%EB%B0%B0-%EA%B3%BC%EC%A0%95)
+- [프로젝트 포트폴리오 제작에 도움되는 도구들](https://velog.io/@couchcoding/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%9C%EC%9E%91%EC%8B%9C-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EB%8F%84%EA%B5%AC%EB%93%A4-2)
 ___ 
 ### Ⅱ. 코딩 테스트 관련 자료
 - [이것이 코딩테스트다! 소스코드](https://github.com/ndb796/python-for-coding-test)
