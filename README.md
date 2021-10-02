@@ -18,8 +18,8 @@ ___
 </table>
 
 > *Thank you for any other contributor helps make this information :)*
-___  
-# 📕 Categories
+
+# 😎 Categories
 ### Ⅰ. 진로 / 취준 / 개발관련 행사안내 및 활용자료
 - [Tech Interview Question for Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 - [👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖](https://github.com/gyoogle/tech-interview-for-developer)
@@ -31,7 +31,6 @@ ___
 - [개발자를 위한 트렌드 2021](https://velog.io/@wooder2050/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%ED%8A%B8%EB%A0%8C%EB%93%9C2021?fbclid=IwAR0eqcHztAwVj3HKq8u0w5hhCJHFz6bZenPrEY_bIcoAblBNFThfeTmzVnU)
 - [신입 개발자를 위한 핵심 어드바이스](https://velog.io/@hyounglee/for-newbies?fbclid=IwAR3lRLCgw4Ns49uVO5l84MsN7ax3cW-ALGE97yy_E2cABIqhXn6TL9IpLEk)
 - [카카오 FE개발자 최종합격 후기](https://velog.io/@lky9303/%EC%B9%B4%EC%B9%B4%EC%98%A4-FE-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B5%9C%EC%A2%85-%ED%95%A9%EA%B2%A9feat-%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4-%EB%84%A4%EC%B9%B4%EB%9D%BC%EC%BF%A0%EB%B0%B0-%EA%B3%BC%EC%A0%95)
-- [프로젝트 포트폴리오 제작에 도움되는 도구들](https://velog.io/@couchcoding/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%9C%EC%9E%91%EC%8B%9C-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EB%8F%84%EA%B5%AC%EB%93%A4-2)
 ___ 
 ### Ⅱ. 코딩 테스트 관련 자료
 - [이것이 코딩테스트다! 소스코드](https://github.com/ndb796/python-for-coding-test)
@@ -54,6 +53,8 @@ ___
 - [Github으로 한방에 프로젝트 관리하기](https://github.com/cheese10yun/github-project-management)
 - [Code를 이쁘게 저장해보자 (1), Carbon](https://carbon.now.sh/)
 - [How to make Web Project](https://mishacreatrix.medium.com/design-a-website-from-scratch-in-7-steps-bf3e0ab1972)
+- [Window에 WSL2 적용하기](https://www.lesstif.com/software-architect/wsl-2-windows-subsystem-for-linux-2-71401661.html)
+- [유용한 생산성 Tool](https://velog.io/@chris/introducing-useful-productivity-tools)
 ___ 
 ### Ⅳ. VCS
 - [Github 활용 끝판왕 모음!!](https://github.com/cheese10yun/dev-info)
@@ -119,6 +120,10 @@ https://www.slideshare.net/NaverEngineering/techcon-2019-mobile-android3)
 - [Android Developers : Youtube Channels](https://www.youtube.com/user/androiddevelopers/videos)
 - [Android 개발자 공식 사이트](https://developer.android.com/)
 - [모바일 앱 디자인을 위한 9가지 원칙](https://www.uxpin.com/studio/blog/principles-mobile-app-design/)
+- [토닥토닥 ML Kit - ML Kit 인공지능 앱 만들기 (안드로이드 (자바))](https://wikidocs.net/book/5141)
+- [토닥토닥 ML Kit - ML Kit 인공지능 앱 만들기 (안드로이드 (코틀린))](https://wikidocs.net/book/5142)
+- [토닥토닥 ML Kit - ML Kit 인공지능 앱 만들기 (아이폰 (스위프트))](https://wikidocs.net/book/5144)
+- [토닥토닥 티처블 머신 - 티처블 머신 인공지능 앱 만들기 (안드로이드 (자바))](https://wikidocs.net/book/5827)
 
 ##### ⅴ. 머신러닝 & 데이터 분석
 - [Machine Learning study for Beginner](https://github.com/teddylee777/machine-learning)
@@ -127,10 +132,11 @@ https://www.slideshare.net/NaverEngineering/techcon-2019-mobile-android3)
 - [Kaggle](https://www.kaggle.com/)
 - [AI Hub](https://aihub.or.kr/)
 - [Teachable Machine](https://teachablemachine.withgoogle.com/)
-- [데이터 분석 강의사이트 모음]
+- [인공지능 웹앱 만들기 wikidocs](https://wikidocs.net/book/4781)  
 
-##### ⅵ. AWS
+##### ⅵ. AWS / Network, Hosting
 - [AWS EC2 SSH 접속가이드](https://youtu.be/oMVfhT_xlzk)
+- [FireBase Hosting 쉽게 시작하기](https://blog.naver.com/varkiry05/221206143576)
 
 ##### ⅶ. All of Design
 - [Designer들만의 세상](https://www.behance.net/)
