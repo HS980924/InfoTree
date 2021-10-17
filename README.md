@@ -107,6 +107,7 @@ ___
 - [Nomad Coder Lecture Site](https://nomadcoders.co/)
 - [프론트엔드 개발에 영감을 주는 8가지 아이디어](https://yozm.wishket.com/magazine/detail/806/)
 - [Velopert와 함께하는 React기술서](https://react.vlpt.us/)
+- [Lottie.js ](https://tagilog.tistory.com/620)
 
 ##### ⅲ. 백엔드
 - [Backend-Interview-Question](https://github.com/ksundong/backend-interview-question)
