@@ -45,6 +45,7 @@ ___
 - [국내 코테 3대장, BOJ](https://www.acmicpc.net/)
 - [국내 코테 3대장, Programmers](https://programmers.co.kr/)
 - [국내 코테 3대장, SW Expert Academy](https://swexpertacademy.com/main/main.do)
+- [이진트리 잡기](https://www.youtube.com/watch?v=gG9EWb-JIQk)
 - [CodeForce](http://codeforces.com/)
 - [PS계 바이블, 구종만 블로그](http://theyearlyprophet.com/)
 - [라이님 블로그](https://blog.naver.com/kks227/220769859177)
