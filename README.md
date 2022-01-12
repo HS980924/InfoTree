@@ -61,6 +61,9 @@ ___
 - [Window에 WSL2 적용하기](https://www.lesstif.com/software-architect/wsl-2-windows-subsystem-for-linux-2-71401661.html)
 - [유용한 생산성 Tool](https://velog.io/@chris/introducing-useful-productivity-tools)
 - [포트폴리오 제작을 위한 Starter Pack](https://velog.io/@couchcoding/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EC%A0%9C%EC%9E%91%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%EC%8B%9C-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EB%8F%84%EA%B5%AC%EB%93%A4-1)
+- [JIRA의 배포기능 활용하기!](https://blog.indentcorp.com/integrate-jira-deployment-with-github-actions/?fbclid=IwAR3Uj5tANH2CqKLGNSR6n5jKt1WFoHVkfi9fZnVv7aX7QwYk5oslfFianUY)  
+- [내 프로젝트에 알맞는 개발자 찾는법?](https://yozm.wishket.com/magazine/detail/1206/?fbclid=IwAR1lwy6QHULEalI6XZ42UlFQD3w0-VX5mvdRyiGuq8hQyaUArsZojiAtPi0)  
+- [왕초보를 위한 RESTful API사용법](https://velog.io/@couchcoding/%EA%B0%9C%EB%B0%9C-%EC%B4%88%EB%B3%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-RESTful-API-%EC%84%A4%EA%B3%84-%EA%B0%80%EC%9D%B4%EB%93%9C?fbclid=IwAR0UwNlZOR3ymdFUEteKkrq_neFrGDKhESzAptIzgywzQSln-ho3SQdgqSA)
 ___ 
 ### Ⅳ. VCS
 - [Github 활용 끝판왕 모음!!](https://github.com/cheese10yun/dev-info)
